@@ -1,0 +1,6 @@
+local wp username :photovoyager
+password :root123
+
+
+***************************
+
